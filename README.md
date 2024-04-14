@@ -10,6 +10,6 @@ runs really slow, doesn't look super great, only made for educational purposes.
 
 there's a .pdf file here that shows the contents of my GCSE art book too, so you can see explenations behind stuff and the thought process behind it.
 
-<a href="https://idoblenderstuffs.github.io/crappy-mc-terrain/webgl/">webGL build link</a>
-<a href="https://idoblenderstuffs.github.io/crappy-mc-terrain/windows/">windows build download</a>
-<a href="https://idoblenderstuffs.github.io/crappy-mc-terrain/placesandspaces.pdf">pdf file link</a>
+<a href="https://idoblenderstuffs.github.io/crappy-mc-terrain/webgl/">webGL build link</a> <br>
+<a href="https://idoblenderstuffs.github.io/crappy-mc-terrain/windows/">windows build download</a> <br>
+<a href="https://idoblenderstuffs.github.io/crappy-mc-terrain/placesandspaces.pdf">pdf file link</a> <br>
